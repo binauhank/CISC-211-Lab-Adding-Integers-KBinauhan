@@ -1,7 +1,5 @@
 /*** asmFunc.s   ***/
 
-#include <xc.h>
-
 /* Tell the assembler that what follows is in data memory    */
 .data
 .align

@@ -238,7 +238,7 @@ int main ( void )
     int32_t failCount = 0;
     int32_t totalPassCount = 0;
     int32_t totalFailCount = 0;
-    int32_t codeTestMaxPoints = 30;  // This must match the points in the lab question rubric!
+    int32_t codeTestMaxPoints = 50;  // This must match the points in the lab question rubric!
     uint32_t numTestCases = sizeof(inp1Array)/sizeof(inp1Array[0]);
 
         // Loop forever
